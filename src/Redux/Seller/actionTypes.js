@@ -1,8 +1,0 @@
-const sellerConstants = {
-    ADD_PRODUCT_REQUEST: "ADD_PRODUCT_REQUEST",
-    ADD_PRODUCT_SUCCESS: "ADD_PRODUCT_SUCCESS",
-    ADD_PRODUCT_FAILURE: "ADD_PRODUCT_FAILURE",
-    SET_DEFAULT: "SET_DEFAULT"
-};
-
-export default sellerConstants;
