@@ -219,11 +219,7 @@ export default function Navbar() {
             </p>
           </a>
           <p className="line">|</p>
-          <a
-            href="/"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href="/" target="_blank" rel="noreferrer">
             <p>Become a Supplier</p>
           </a>
           <p className="line">|</p>
